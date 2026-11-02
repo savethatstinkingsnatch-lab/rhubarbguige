@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Rhubarb Field Guide",
+      "hasCanvas": false,
+      "bodyTextLen": 2602,
+      "bodyTextHash": "87603726b87e86fc4cbcc905b0e2f1b40f62137fb37ef4e389b903eaa07f150f",
+      "bodyTextPrefix": "Rhubarb Field Guide Seed to stalk $1.00 full guide Quick Overvie",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Rhubarb Field Guide",
+      "hasCanvas": false,
+      "bodyTextLen": 2602,
+      "bodyTextHash": "87603726b87e86fc4cbcc905b0e2f1b40f62137fb37ef4e389b903eaa07f150f",
+      "bodyTextPrefix": "Rhubarb Field Guide Seed to stalk $1.00 full guide Quick Overvie",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
