@@ -3,7 +3,7 @@ import { AuthProvider } from "@/lib/auth/provider";
 import { PreviewHostBridge } from "@/components/preview-host-bridge";
 import appCss from "../styles.css?url";
 
-const APP_NAME = "Rhubarb Field Guide";
+const APP_NAME = "Volume 5: Rhubarb (The Education Revolution)";
 
 export const Route = createRootRoute({
   head: () => ({
@@ -13,7 +13,7 @@ export const Route = createRootRoute({
       { title: APP_NAME },
       {
         name: "description",
-        content: "A beginner seed-to-seed rhubarb guide. Unlock the full field guide for $1, then read it offline.",
+        content: "Volume 5 of The Education Revolution, by Blue and the Awesome Dudes. A free beginner rhubarb guide: climate, planting, care, harvest, recipes, and saving seed. Read it offline.",
       },
       { name: "theme-color", content: "#2f5d34" },
     ],

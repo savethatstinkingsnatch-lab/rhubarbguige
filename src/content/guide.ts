@@ -13,9 +13,7 @@ export type Section = {
   blocks: Block[];
 };
 
-export const GUIDE_TITLE = "Rhubarb Field Guide";
-export const GUIDE_PRICE = "1.00";
-export const PAYPAL_EMAIL = "jessicamcintosh7777@gmail.com";
+export const GUIDE_TITLE = "Volume 5: Rhubarb";
 
 export const sections: Section[] = [
   {
